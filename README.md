@@ -1,3 +1,9 @@
+# NOT READY FOR USE
+
+# A2C_DVI Firmware: Digital Video for Apple IIc Computer
+
+This is an experiment to see if the A2DVI card (v2.0) can be adapted to the Apple IIc, which doesn't have slots.
+
 # A2DVI Firmware: Digital Video for Apple II Computers
 
 This is a firmware project for a digital DVI/HDMI video card for Apple II.
